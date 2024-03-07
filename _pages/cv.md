@@ -18,15 +18,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-2023: Lecturer
+  * Riphah International University, Lahore
+  * Duties included: Teaching OOP, DSA, PF
+*2022-Current: Python Instructor
+  * Multiomics, Lahore
+  * Duties included: Teaching Python(Zero to Advance), Data Science
+* 2023-Current: Lecturer
+  * Superior University, Lahore
+  * Duties included: Teaching OOP, DSA, PF
   
 Skills
 ======
