@@ -15,6 +15,7 @@ Education
 * M.S. in Computer Science, COMSATS University Islamabad, 2022
 <!---* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 -->
+
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -29,12 +30,19 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Data Science
+  * Scikit-Learn
+  * TensorFlow/Pytorch
+  * Pandas
+  * Matplotlib
+  * Seaborn
+* Web Dev
+  * JS
+  * Nodejs, Django
+* C++
+* Git
+* Docker
 
 Publications
 ======
