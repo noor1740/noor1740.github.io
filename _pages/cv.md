@@ -21,7 +21,7 @@ Work experience
 * 2022-2023: Lecturer
   * Riphah International University, Lahore
   * Duties included: Teaching OOP, DSA, PF
-*2022-Current: Python Instructor
+* 2022-Current: Python Instructor
   * Multiomics, Lahore
   * Duties included: Teaching Python(Zero to Advance), Data Science
 * 2023-Current: Lecturer
